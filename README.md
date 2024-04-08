@@ -14,4 +14,4 @@ A basic local library app created in Node.js with Express, MongoDB, and pug (for
 - Pug
 
 ## Live Deployment
-*Coming soon...*
+Can be seen [here](https://dull-resonant-son.glitch.me/catalog/authors).
